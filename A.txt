@@ -1,0 +1,7 @@
+<div class="box1">
+        <ul>
+            <li><a href="">My Account</a>  <i class="fa fa-angle-down" aria-hidden="true"></i></li>
+            </ul>
+            <h5> Get free shipping charges on your first order</h5>
+        </div>
+       
